@@ -1,0 +1,26 @@
+[
+	{
+		"symbolicName": "SERIAL_NO_0001",
+		"validateAs": "Required",
+		"maxLength": 9,
+		"required": true
+	},
+	{
+		"symbolicName": "USER_ID",
+		"maxLength": 48,
+		"displayMode": "readonly",
+		"initialValue": "Set By EDS"
+	},
+	{
+		"symbolicName": "LAB_DATE_0001",
+		"initialValue": "Set By EDS",
+		"required": true,
+		"validateAs": "DateIndexed"		
+	},
+	{
+		"symbolicName": "TIMESTAMP",
+		"initialValue": "Set By EDS",
+		"displayMode": "readonly",
+		"timestamp": false
+	}
+]

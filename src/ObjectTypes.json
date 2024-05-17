@@ -1,0 +1,18 @@
+[
+	{"symbolicName": "ICM_EXT_PROVID_0001"},
+	{"symbolicName": "ICM_HAQ_CLASS__0001"},
+	{"symbolicName": "ICM_IMMUNIZATI_0001"},
+	{"symbolicName": "ICM_INTER_ASSI_0001"},
+	{"symbolicName": "ICM_LAB_REPORT_0001"},
+	{"symbolicName": "ICM_MED_HIST_D_0001"},
+	{"symbolicName": "ICM_MED_MON_DO_0001"},
+	{"symbolicName": "ICM_MED_STAT_D_0001"},
+	{"symbolicName": "ICM_MISC_DOC_0001"},
+	{"symbolicName": "ICM_NOINDEX"},
+	{"symbolicName": "ICM_REL_OF_INF_0001"},
+	{"symbolicName": "ICM_SUB_ABUSE__0001"},
+	{"symbolicName": "ICM_WC_OSHA_DO_0001"},
+	{"symbolicName": "ICM_COPY_FOLDER_0002"},
+	{"symbolicName": "ICM_EMP_MED_FOL_0002"},
+	{"symbolicName": "ICM_WELLNESS_D_0001"}
+]

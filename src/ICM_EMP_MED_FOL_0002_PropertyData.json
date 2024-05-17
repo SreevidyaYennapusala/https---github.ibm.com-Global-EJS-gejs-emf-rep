@@ -1,0 +1,36 @@
+[
+	{
+		"symbolicName": "TALENT_ID_0001",
+		"validateAs": "isSerialNoExists",
+		"maxLength": 9,
+		"required": true
+	},
+	{
+		"symbolicName": "USER_ID",
+		"maxLength": 48,
+		"displayMode": "readonly",
+		"initialValue": "Set By EDS"
+	},
+	{
+		"symbolicName": "TIMESTAMP",
+		"timestamp": false,
+		"initialValue": "Set By EDS",
+		"displayMode": "readonly"
+	},
+	{
+		"symbolicName": "DATE_OF_HI_0001",
+		"initialValue": "Set By EDS"
+	},
+	{
+		"symbolicName": "SRD",
+		"initialValue": "Set By EDS"
+	},
+	{
+		"symbolicName": "DATE_OF_SE_0001",
+		"initialValue": "Set By EDS"
+	},
+	{
+		"symbolicName": "BIRTH_DATE_0001",
+		"initialValue": "Set By EDS"
+	}	
+]
